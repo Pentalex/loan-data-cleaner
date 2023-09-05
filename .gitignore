@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+customer_data.sqlite3
+clean_customer_data.sqlite3
